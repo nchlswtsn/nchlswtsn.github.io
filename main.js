@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $( "td" ).mouseenter(function(event) {
-  		$( "td" ).fadeToggle( "slow", 0.25 );
+    $( "div" ).mouseenter(function(event) {
+  		$( "div" ).fadeToggle( "slow", 0.25 );
 	});
 });
