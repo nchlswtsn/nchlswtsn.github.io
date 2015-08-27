@@ -1,4 +1,3 @@
 $(document).ready(function(){
-	$('td').mouseenter(function(fadeToggle('slow', .25)
-	}););
-})
+	$('td').mouseenter(fadeToggle('slow', .25));
+});
