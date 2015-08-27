@@ -1,6 +1,7 @@
 td {
 	width: 200px;
 	height: 200px;
+	border: 2px;
 }
 h1 {
 	font-size: 70px;
