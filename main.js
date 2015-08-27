@@ -1,3 +1,5 @@
 $(document).ready(function() {
-    $('.click').fadeToggle(slow);
+    $( "td" ).click(function() {
+  		$( "td" ).fadeToggle( "slow" );
+	});
 });
