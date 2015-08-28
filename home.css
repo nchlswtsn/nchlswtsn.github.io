@@ -2,6 +2,7 @@ div {
 	width: 200px;
 	height: 200px;
 	border: 2px;
+	border-color: blue;
 }
 h1 {
 	font-size: 70px;
